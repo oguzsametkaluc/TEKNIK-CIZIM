@@ -1,11 +1,11 @@
 ## TEKNİK ÇİZİM
 GSM/2G, 3G, 4/4.5G ve 5G saha projelerinde BTK ve TSSR süreçlerine esas teknik çizim, saha yerleşim ve revizyon dokümanlarını hazırlamaktayım. Indoor ve outdoor olmak üzere 500’den fazla saha için teknik dosya hazırlığı, çizim ve revizyon süreçlerinde görev aldım. Anten yerleşim planları, ekipman konumlandırmaları ve saha bazlı teknik çizimleri AutoCAD kullanarak teknik standartlara uygun şekilde oluşturmaktayım. 
 
-<img width="950" height="746" alt="Ekran görüntüsü 2026-04-05 175544" src="https://github.com/user-attachments/assets/454261bf-2890-4566-9b77-9ab0cb063e3e" />
-<img width="996" height="777" alt="Ekran görüntüsü 2026-04-05 175535" src="https://github.com/user-attachments/assets/8491a06b-4995-4d12-89c8-23a24509bad2" />
-<img width="662" height="512" alt="Ekran görüntüsü 2026-04-05 175514" src="https://github.com/user-attachments/assets/1315bc82-8001-474c-8295-f24647235513" />
-<img width="1454" height="1006" alt="Ekran görüntüsü 2026-04-05 175941" src="https://github.com/user-attachments/assets/a019a71d-0955-4025-96f9-53005e099f3d" />
-<img width="1457" height="1011" alt="Ekran görüntüsü 2026-04-05 175924" src="https://github.com/user-attachments/assets/0842e91a-0aa5-4aba-b66c-605947d7e050" />
-<img width="1464" height="1015" alt="Ekran görüntüsü 2026-04-05 175907" src="https://github.com/user-attachments/assets/433c50f3-5cc3-462d-84c5-84cea9d2aefd" />
-<img width="785" height="563" alt="Ekran görüntüsü 2026-04-05 175757" src="https://github.com/user-attachments/assets/1191da43-9d66-44cf-b939-c659b045e818" />
-<img width="966" height="724" alt="Ekran görüntüsü 2026-04-05 175602" src="https://github.com/user-attachments/assets/82b7cc80-2901-4e85-a00c-e641f5d8cce4" />
+<img width="950" height="746" alt="Ekran görüntüsü 2026-04-05 175544" src="https://github.com/user-attachments/assets/108a67ef-2a7b-48ed-90f7-ff654446a54a" />
+<img width="996" height="777" alt="Ekran görüntüsü 2026-04-05 175535" src="https://github.com/user-attachments/assets/1738698d-432f-44c2-adf5-c0c6f05c8ee5" />
+<img width="662" height="512" alt="Ekran görüntüsü 2026-04-05 175514" src="https://github.com/user-attachments/assets/61437d27-55fc-4e57-a52e-fe455e71f2a6" />
+<img width="1130" height="841" alt="Ekran görüntüsü 2026-04-05 175941" src="https://github.com/user-attachments/assets/e0dbc6eb-322e-470e-8f90-ba91c9f327b5" />
+<img width="1129" height="843" alt="Ekran görüntüsü 2026-04-05 175924" src="https://github.com/user-attachments/assets/ba0afad5-2c14-4380-a70c-e2a361de2dbc" />
+<img width="1124" height="848" alt="Ekran görüntüsü 2026-04-05 175907" src="https://github.com/user-attachments/assets/1d8a32b1-63f8-4a46-85a7-fa56fa8e4e39" />
+<img width="785" height="563" alt="Ekran görüntüsü 2026-04-05 175757" src="https://github.com/user-attachments/assets/efe5a07a-c56f-4256-ba52-adf8257e6f0e" />
+<img width="966" height="724" alt="Ekran görüntüsü 2026-04-05 175602" src="https://github.com/user-attachments/assets/b92e806c-863e-4922-9b90-695df7ccd9c7" />
