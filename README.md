@@ -7,5 +7,4 @@ GSM/2G, 3G, 4/4.5G ve 5G saha projelerinde BTK ve TSSR süreçlerine esas teknik
 <img width="1130" height="841" alt="Ekran görüntüsü 2026-04-05 175941" src="https://github.com/user-attachments/assets/af6a7280-05f2-4ed4-8b2e-237a6526b76c" />
 <img width="1129" height="843" alt="Ekran görüntüsü 2026-04-05 175924" src="https://github.com/user-attachments/assets/fa538341-2409-4b70-9942-0717b86ab249" />
 <img width="1124" height="848" alt="Ekran görüntüsü 2026-04-05 175907" src="https://github.com/user-attachments/assets/36258b01-6f40-498b-9f11-309f7dec2ea1" />
-<img width="785" height="563" alt="Ekran görüntüsü 2026-04-05 175757" src="https://github.com/user-attachments/assets/1cb65d22-c34f-4282-939f-5c4ec76d5229" />
 <img width="966" height="724" alt="Ekran görüntüsü 2026-04-05 175602" src="https://github.com/user-attachments/assets/84aadcff-7045-49db-9c5a-6f1a14e089a6" />
